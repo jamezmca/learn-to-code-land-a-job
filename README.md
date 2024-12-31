@@ -13,10 +13,10 @@ Career transitioning into tech was the best thing I ever did and I want to make 
 
 **By the end of this guide you will...** 
 
-⭐️ know the best roadmap to learn how to code and gain the skills and knowledge you need to be a great programmer.  
-⭐️ know the most effective methods to self-teach coding and effortlessly retain all the information.  
-⭐️ have a portfolio of projects of the calibre needed to make you a credible candidate, show employers that you are the best, and get you hired.  
-⭐️ know the secrets to becoming the top 1% of job applicants and succeeding over individuals who are more experience and better qualified than you. 
+⭐️ know the best roadmap to learn how to code and gain the skills and knowledge you need to be a great programmer  
+⭐️ know the most effective methods to self-teach coding and effortlessly retain all the information  
+⭐️ have a portfolio of projects of the calibre needed to make you a credible candidate, show employers that you are the best, and get you hired  
+⭐️ know the secrets to becoming the top 1% of job applicants and succeeding over individuals who are more experience and better qualified than you 
 
 
 ## Table of Contents
