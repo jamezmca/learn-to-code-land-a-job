@@ -290,5 +290,5 @@ ___
 
 If you have enjoyed the guide, please be sure to ⭐️ star the GitHub repo!
 
-Cheers,
+Cheers, 
 James
