@@ -6,7 +6,7 @@ Career transitioning into tech was the best thing I ever did and I want to make 
 
 **Follow this guide if you want to:** 
 
-✅ learn how to code for free 
+✅ learn how to code for free  
 ✅ get hired as a software developer  
 ✅ learn how to build your own amazing software applications 
 
@@ -290,5 +290,5 @@ ___
 
 If you have enjoyed the guide, please be sure to ⭐️ star the GitHub repo!
 
-Cheers, 
+Cheers,  
 James
