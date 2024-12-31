@@ -1,4 +1,4 @@
-# Learn to Code & Land a Job as a Software Developer 🔥
+# Learn to Code & Get Hired as a Software Developer 🔥
 
 I taught myself how to code and landed a job as a software developer when I was up against hundreds of other candidates with more experience and better qualifications. In this guide I'm going to teach you everything you need to know to do exactly the same. 
 
