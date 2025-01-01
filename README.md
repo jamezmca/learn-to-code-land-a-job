@@ -34,13 +34,13 @@ We have a lot to cover, but everything you need to know is included in this guid
 
 So let's get started 🔥
 
-## Foreword
+## The Job Market
 
 Before we dive in to the content, let's discuss **the dreaded job market**!
 
-The job market sucks. Appling for hundreds of jobs only to be ghosted or rejected is soul crushing. It's true - I don't deny it. When I landed my software developer role, I was applying to jobs with 200+ (sometimes even 2000+) other applicants. It's a savage undertaking.
+The job market sucks. Applying for hundreds of jobs only to be ghosted or rejected is soul crushing. It's true - I don't deny it. When I landed my software developer role, I was applying to jobs with 200+ (sometimes even 2000+) other applicants. It's a savage undertaking.
 
-Yet even in this miserable job market, someone self-taught is getting hired - I ended up getting numerous job offers without a qualification or relevant work experience. Even today, I still receive plenty of messages from people who have followed my guides and landed their software developer jobs without having any prior experience or relevant qualifications. At the end of the day it's a bit like climbing Mt Everest; it's hard, it's even grueling, not to mention risky. But if want to stand at the top of the world, then you need to be the top 1% of applicants, and this guide will instruct you on how to be that person.
+Yet even in this miserable job market, someone self-taught is getting hired - I ended up getting numerous job offers without a qualification or relevant work experience. Even today, I still receive plenty of messages from people who have followed my guides and landed their software developer jobs without having any prior experience or relevant qualifications. At the end of the day it's a bit like climbing Mt Everest; it's hard, it's even gruelling, not to mention risky. But if want to stand at the top of the world, then you need to be the top 1% of applicants, and this guide will instruct you on how to be that person.
 
 *And as a final note before we dive in, there's one last thing you should know.*
 
