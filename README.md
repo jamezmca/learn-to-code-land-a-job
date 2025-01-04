@@ -82,7 +82,7 @@ You need to be bull headed, and remember that failure doesn't make you a bad pro
 
 Learning to code is not a one-size-fits-all process. And what you find easy might be a nightmare for another.
 
-As a result, you might find that sometimes you *overstep* on your learning journey and move on to something that perhaps you we're quite ready for. This does not make you a failure. It is simply a sign that you should move back a step or two and work a little longer on that material before you re-attempt that step that you are on!
+As a result, you might find that sometimes you *overstep* on your learning journey and move on to something that perhaps you're not quite ready for. This does not make you a failure. It is simply a sign that you should move back a step or two and work a little longer on that material before you re-attempt that step that you are on!
 
 Sometimes one step backwards can mean two steps forwards ✅
 
